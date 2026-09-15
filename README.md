@@ -1,4 +1,4 @@
-#IT313 Lab 2 - Enrollment Eligibility  Checker
+#IT313_Sabio_Franciene_JavaScriptES6Essentials.
 
 ## Problem
 The IT313 registrar provided a raw list of enrollee records (name, prelim, midterm, final scores). This program coputes each enrollee's average and determines eligibility status: PASSING if the average is 75 or above, otherwise PROBATION. It then prints a formatted report including each enrollee's status, the overall class average, and the passing count.
