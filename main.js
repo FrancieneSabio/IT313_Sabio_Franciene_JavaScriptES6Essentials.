@@ -11,7 +11,7 @@ const enrollees = [
 function getEnrollees() {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
-            resolve(enrollees);
+            reject(new Error("Connection failed"));
         }, 500);
     });
 }
