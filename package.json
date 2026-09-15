@@ -1,0 +1,10 @@
+{ 
+    "name": "it313-enrollment-eligibility-checker",
+    "version": "1.0.0",
+    "description": "IT313 Lab 2 - Modern JavaScript (ES6+) Essentials in Action",
+    "type": "module",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    }
+}
